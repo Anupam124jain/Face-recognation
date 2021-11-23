@@ -10,7 +10,7 @@ import sys
 import time
 
 images_folder = "/home/rits/Documents/Assets/UAE_identity/EID_back_images"
-SUBSCRIPTION_KEY = 'e1f05b3aacb34d999db3a8d50e0fbe11'
+SUBSCRIPTION_KEY = 'abc1234hjkltttttttttttyyyyyyyyyyyyyyyyyyyyyy'
 ENDPOINT = 'https://dfmscomputervision.cognitiveservices.azure.com'
 
 computervision_client = ComputerVisionClient(ENDPOINT, CognitiveServicesCredentials(SUBSCRIPTION_KEY))
